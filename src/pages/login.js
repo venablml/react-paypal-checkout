@@ -16,7 +16,7 @@ const loginWithPaypal = () => {
       "buttonShape":"pill",
       "buttonSize":"lg",
       "fullPage":"true",
-      "returnurl":"https://venablml.github.io/react-paypal-checkout/"
+      "returnurl":"https://venablml.github.io/react-paypal-checkout/checkout"
     })
   })
   console.log("Login with paypal")
