@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/react-paypal-checkout/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/react-paypal-checkout/static/js/main.9e66c2ce.chunk.js",
-    "main.js.map": "/react-paypal-checkout/static/js/main.9e66c2ce.chunk.js.map",
+    "main.js": "/react-paypal-checkout/static/js/main.6d120c0b.chunk.js",
+    "main.js.map": "/react-paypal-checkout/static/js/main.6d120c0b.chunk.js.map",
     "runtime-main.js": "/react-paypal-checkout/static/js/runtime-main.47f2c120.js",
     "runtime-main.js.map": "/react-paypal-checkout/static/js/runtime-main.47f2c120.js.map",
-    "static/js/2.37362b8f.chunk.js": "/react-paypal-checkout/static/js/2.37362b8f.chunk.js",
-    "static/js/2.37362b8f.chunk.js.map": "/react-paypal-checkout/static/js/2.37362b8f.chunk.js.map",
+    "static/js/2.f72ada75.chunk.js": "/react-paypal-checkout/static/js/2.f72ada75.chunk.js",
+    "static/js/2.f72ada75.chunk.js.map": "/react-paypal-checkout/static/js/2.f72ada75.chunk.js.map",
     "static/js/3.1bf1bf68.chunk.js": "/react-paypal-checkout/static/js/3.1bf1bf68.chunk.js",
     "static/js/3.1bf1bf68.chunk.js.map": "/react-paypal-checkout/static/js/3.1bf1bf68.chunk.js.map",
     "index.html": "/react-paypal-checkout/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/react-paypal-checkout/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.37362b8f.chunk.js.LICENSE.txt": "/react-paypal-checkout/static/js/2.37362b8f.chunk.js.LICENSE.txt"
+    "static/js/2.f72ada75.chunk.js.LICENSE.txt": "/react-paypal-checkout/static/js/2.f72ada75.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.47f2c120.js",
-    "static/js/2.37362b8f.chunk.js",
+    "static/js/2.f72ada75.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.9e66c2ce.chunk.js"
+    "static/js/main.6d120c0b.chunk.js"
   ]
 }
