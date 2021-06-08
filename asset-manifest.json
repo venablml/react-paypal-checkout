@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/react-paypal-checkout/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/react-paypal-checkout/static/js/main.92fa5729.chunk.js",
-    "main.js.map": "/react-paypal-checkout/static/js/main.92fa5729.chunk.js.map",
-    "runtime-main.js": "/react-paypal-checkout/static/js/runtime-main.64b17344.js",
-    "runtime-main.js.map": "/react-paypal-checkout/static/js/runtime-main.64b17344.js.map",
-    "static/js/2.665d9ec9.chunk.js": "/react-paypal-checkout/static/js/2.665d9ec9.chunk.js",
-    "static/js/2.665d9ec9.chunk.js.map": "/react-paypal-checkout/static/js/2.665d9ec9.chunk.js.map",
-    "static/js/3.8c5070f2.chunk.js": "/react-paypal-checkout/static/js/3.8c5070f2.chunk.js",
-    "static/js/3.8c5070f2.chunk.js.map": "/react-paypal-checkout/static/js/3.8c5070f2.chunk.js.map",
+    "main.js": "/react-paypal-checkout/static/js/main.19fcdfcd.chunk.js",
+    "main.js.map": "/react-paypal-checkout/static/js/main.19fcdfcd.chunk.js.map",
+    "runtime-main.js": "/react-paypal-checkout/static/js/runtime-main.5be41769.js",
+    "runtime-main.js.map": "/react-paypal-checkout/static/js/runtime-main.5be41769.js.map",
+    "static/js/2.d01d77d9.chunk.js": "/react-paypal-checkout/static/js/2.d01d77d9.chunk.js",
+    "static/js/2.d01d77d9.chunk.js.map": "/react-paypal-checkout/static/js/2.d01d77d9.chunk.js.map",
+    "static/js/3.b5e5c752.chunk.js": "/react-paypal-checkout/static/js/3.b5e5c752.chunk.js",
+    "static/js/3.b5e5c752.chunk.js.map": "/react-paypal-checkout/static/js/3.b5e5c752.chunk.js.map",
     "index.html": "/react-paypal-checkout/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/react-paypal-checkout/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.665d9ec9.chunk.js.LICENSE.txt": "/react-paypal-checkout/static/js/2.665d9ec9.chunk.js.LICENSE.txt"
+    "static/js/2.d01d77d9.chunk.js.LICENSE.txt": "/react-paypal-checkout/static/js/2.d01d77d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.64b17344.js",
-    "static/js/2.665d9ec9.chunk.js",
+    "static/js/runtime-main.5be41769.js",
+    "static/js/2.d01d77d9.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.92fa5729.chunk.js"
+    "static/js/main.19fcdfcd.chunk.js"
   ]
 }
