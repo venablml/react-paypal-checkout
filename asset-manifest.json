@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-paypal-checkout/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/react-paypal-checkout/static/js/main.19fcdfcd.chunk.js",
-    "main.js.map": "/react-paypal-checkout/static/js/main.19fcdfcd.chunk.js.map",
+    "main.js": "/react-paypal-checkout/static/js/main.79eb4a42.chunk.js",
+    "main.js.map": "/react-paypal-checkout/static/js/main.79eb4a42.chunk.js.map",
     "runtime-main.js": "/react-paypal-checkout/static/js/runtime-main.5be41769.js",
     "runtime-main.js.map": "/react-paypal-checkout/static/js/runtime-main.5be41769.js.map",
     "static/js/2.d01d77d9.chunk.js": "/react-paypal-checkout/static/js/2.d01d77d9.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5be41769.js",
     "static/js/2.d01d77d9.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.19fcdfcd.chunk.js"
+    "static/js/main.79eb4a42.chunk.js"
   ]
 }
