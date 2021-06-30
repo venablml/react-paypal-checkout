@@ -4,22 +4,22 @@ import React, {  useEffect } from 'react';
 
 
 const loginWithPaypal = () => {
+  console.log("Login with paypal")
   window.paypal.use( ['login'], login => {
     login.render ({
       "appid":"AStVxVYVevg9Opp0E0XVkUfOBKOvPJ9lh6psz2178uR8fiyzx9V6Tu8iceWMIvEo9QDuM-5a3EHizASm",
       "authend":"sandbox",
-      "scopes":"openid profile email address",
+      "scopes":"openid profile email address https://uri.paypal.com/services/paypalattributes",
       "containerid":"lippButton",
-      "responseType":"code",
+      "responseType":"code",  
       "locale":"en-us",
       "buttonType":"LWP",
-      "buttonShape":"pill",
+      "buttonShape":"pill", 
       "buttonSize":"lg",
       "fullPage":"true",
-      "returnurl":"https://venablml.github.io/react-paypal-checkout"
+      "returnurl":"https://venablml.github.io/react-paypal-checkout/"
     })
   })
-  console.log("Login with paypal")
 }
 
 
